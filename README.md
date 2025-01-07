@@ -1,2 +1,2 @@
 # ringcentral-api-docs.readthedocs.io
-broken link hijacking by felcity
+broken link hijacking by felcity - bugcrowd
